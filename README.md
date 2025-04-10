@@ -1,8 +1,18 @@
-harapan-djaya-konsultan/
-├── README.md                 ← Profil utama (bisa dibaca langsung di GitHub)
-├── company-profile/
-│   ├── index.html            ← Versi HTML dari profil
-│   ├── style.css             ← Styling sederhana
-│   └── assets/               ← Logo, gambar pelatihan (optional)
-├── LICENSE                   ← Lisensi penggunaan (MIT by default)
-└── .gitignore                ← Untuk keperluan development (jika perlu)
+# LMS HRD - Harapan Djaya Konsultan
+
+Sebuah aplikasi Learning Management System (LMS) berbasis web yang dirancang untuk mendukung kegiatan pelatihan dan pengembangan SDM di perusahaan Anda.
+
+## 🚀 Fitur Utama
+- Dashboard Admin dan Karyawan
+- Manajemen Modul Pelatihan
+- Kuis dan Evaluasi
+- Unduh Sertifikat
+- Statistik dan Progress Karyawan
+
+## 🔧 Instalasi
+```bash
+git clone https://github.com/username/lms-hrd.git
+cd lms-hrd
+npm install
+npm run dev
+
